@@ -1,16 +1,71 @@
-## Hi there 👋
+<h1 align="center">¡Hola! 👋 Soy Tony</h1>
+<h3 align="center">Desarrollador Full Stack apasionado por la programación y las tecnologías modernas</h3>
 
-<!--
-**xd-tony-xd/xd-tony-xd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=xd-tony-xd&label=Visitas&color=blueviolet&style=flat-square" alt="xd-tony-xd" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tecnologías que uso
+
+<p align="center">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+</p>
+
+---
+
+### 👨‍💻 Sobre mí
+
+- 🔭 Actualmente trabajando en proyectos personales y freelance
+- 🌱 Siempre aprendiendo nuevas tecnologías y herramientas
+- 💬 Pregúntame sobre .NET, Java, Angular, Spring Boot, PHP, SQL...
+- 📫 Contáctame: **tuemail@ejemplo.com**
+- 🌐 Sitio web / portafolio: [www.miportafolio.com](https://www.miportafolio.com)
+
+---
+
+### 🚀 Proyectos destacados
+
+- 📘 [**libreria**](https://github.com/xd-tony-xd/libreria) – Sistema de gestión de biblioteca desarrollado en Java
+
+*(Pronto más proyectos en Blazor, Angular y Spring Boot...)*
+
+---
+
+### 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xd-tony-xd&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xd-tony-xd&layout=compact&theme=radical" alt="langs" />
+</p>
+
+---
+
+### 🌐 Redes Sociales
+
+<p align="center">
+  <a href="https://linkedin.com/in/tuusuario" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/@tuusuario" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="mailto:tuemail@ejemplo.com">
+    <img src="https://img.shields.io/badge/Correo-Enviar-información-green?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  Gracias por visitar mi perfil 🙌 ¡Conectemos y creemos algo genial juntos!
+</p>
