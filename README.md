@@ -22,8 +22,8 @@
 - 🔭 Actualmente trabajando en proyectos personales y freelance
 - 🌱 Siempre aprendiendo nuevas tecnologías y herramientas
 - 💬 Pregúntame sobre .NET, Java, Angular, Spring Boot, PHP, SQL...
-- 📫 Contáctame: **tuemail@ejemplo.com**
-- 🌐 Sitio web / portafolio: [www.miportafolio.com](https://www.miportafolio.com)
+- 📫 Contáctame: antonybrunoxyz@gmail.com
+- 🌐 CV:  [cv programador junior.pdf](https://github.com/user-attachments/files/22502385/cv.programador.junior.pdf)
 
 ---
 
