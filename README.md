@@ -46,7 +46,7 @@
 - 🌱 Aprendiendo y aplicando **Spring Boot, Angular, ASP.NET Core y Kotlin**
 - 💬 Pregúntame sobre **Java, Spring Boot, Angular, .NET, APIs REST y JWT**
 - 📫 Contáctame: **antonybrunoxyz@gmail.com**
-- 🌐 CV: [cv programador junior.pdf](https://github.com/user-attachments/files/22502385/cv.programador.junior.pdf)
+- 🌐 CV: [Mi CV Bruno Antony.pdf](https://github.com/user-attachments/files/24321793/Mi.CV.Bruno.Antony.pdf)
 
 ---
 
